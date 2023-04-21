@@ -3,10 +3,6 @@
 
     Responsive Christmas Website Design - HTML SASS JavaScript
 
-# Video tutorial
-
-    https://youtu.be/c3swrLE0nDY
-
 # Resource
 
     Google font: https://fonts.google.com/
